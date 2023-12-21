@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Artboards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="Mobile_HomeSlide3" transform="translate(-335.000000, -362.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M345,362 C339.477153,362 335,366.477153 335,372 C335,377.522847 339.477153,382 345,382 C350.522847,382 355,377.522847 355,372 C354.994029,366.479628 350.520372,362.005971 345,362 Z M345,380.333333 C340.397627,380.333333 336.666667,376.602373 336.666667,372 C336.666667,367.397627 340.397627,363.666667 345,363.666667 C349.602373,363.666667 353.333333,367.397627 353.333333,372 C353.328281,376.600279 349.600279,380.328281 345,380.333333 L345,380.333333 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

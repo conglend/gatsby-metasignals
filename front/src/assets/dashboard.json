@@ -1,0 +1,5054 @@
+{
+  "Meta Mogul": {
+    "last30Days": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 1431
+        },
+        {
+          "name": "Short",
+          "value": 1
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 1239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 111
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 14
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 57
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 10
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 11
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 19
+        },
+        {
+          "name": "BATPERP",
+          "value": 23
+        },
+        {
+          "name": "BCHPERP",
+          "value": 9
+        },
+        {
+          "name": "BNBPERP",
+          "value": 10
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 33
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 22
+        },
+        {
+          "name": "ETHPERP",
+          "value": 43
+        },
+        {
+          "name": "FTTPERP",
+          "value": 19
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 73
+        },
+        {
+          "name": "LTCPERP",
+          "value": 13
+        },
+        {
+          "name": "MKRPERP",
+          "value": 24
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 19
+        },
+        {
+          "name": "RSRPERP",
+          "value": 14
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 10
+        },
+        {
+          "name": "SNXPERP",
+          "value": 4
+        },
+        {
+          "name": "SOLPERP",
+          "value": 62
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 10
+        },
+        {
+          "name": "THETAPERP",
+          "value": 15
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 24
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 12
+        },
+        {
+          "name": "XLMPERP",
+          "value": 14
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 18
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 6
+        },
+        {
+          "name": "ZECPERP",
+          "value": 10
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 12
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 13
+        },
+        {
+          "name": "ARPERP",
+          "value": 19
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 95
+        },
+        {
+          "name": "AXSPERP",
+          "value": 9
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 16
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 22
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 6
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 13
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 4
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 13
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 32
+        },
+        {
+          "name": "FTMPERP",
+          "value": 74
+        },
+        {
+          "name": "GALAPERP",
+          "value": 23
+        },
+        {
+          "name": "ICPPERP",
+          "value": 22
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 16
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 27
+        },
+        {
+          "name": "MANAPERP",
+          "value": 35
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 11
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 17
+        },
+        {
+          "name": "SLPPERP",
+          "value": 24
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 17
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 39
+        },
+        {
+          "name": "30M",
+          "value": 40
+        },
+        {
+          "name": "45M",
+          "value": 41
+        },
+        {
+          "name": "1H",
+          "value": 378
+        },
+        {
+          "name": "2H",
+          "value": 51
+        },
+        {
+          "name": "3H",
+          "value": 35
+        },
+        {
+          "name": "4H",
+          "value": 175
+        },
+        {
+          "name": "6H",
+          "value": 164
+        },
+        {
+          "name": "8H",
+          "value": 188
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 458
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 425
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 548
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1431
+        }
+      ]
+    },
+    "monthToDate": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 1274
+        },
+        {
+          "name": "Short",
+          "value": 0
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 1239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 111
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 24
+        },
+        {
+          "name": "Crypto Og",
+          "value": 9
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 51
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 8
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 11
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 18
+        },
+        {
+          "name": "BATPERP",
+          "value": 20
+        },
+        {
+          "name": "BCHPERP",
+          "value": 8
+        },
+        {
+          "name": "BNBPERP",
+          "value": 6
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 31
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 16
+        },
+        {
+          "name": "ETHPERP",
+          "value": 38
+        },
+        {
+          "name": "FTTPERP",
+          "value": 17
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 66
+        },
+        {
+          "name": "LTCPERP",
+          "value": 12
+        },
+        {
+          "name": "MKRPERP",
+          "value": 24
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 18
+        },
+        {
+          "name": "RSRPERP",
+          "value": 13
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 9
+        },
+        {
+          "name": "SNXPERP",
+          "value": 3
+        },
+        {
+          "name": "SOLPERP",
+          "value": 62
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 5
+        },
+        {
+          "name": "THETAPERP",
+          "value": 14
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 21
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 6
+        },
+        {
+          "name": "XLMPERP",
+          "value": 10
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 15
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 5
+        },
+        {
+          "name": "ZECPERP",
+          "value": 9
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 10
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 9
+        },
+        {
+          "name": "ARPERP",
+          "value": 12
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 76
+        },
+        {
+          "name": "AXSPERP",
+          "value": 6
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 10
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 16
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 5
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 11
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 4
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 12
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 30
+        },
+        {
+          "name": "FTMPERP",
+          "value": 64
+        },
+        {
+          "name": "GALAPERP",
+          "value": 22
+        },
+        {
+          "name": "ICPPERP",
+          "value": 21
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 15
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 19
+        },
+        {
+          "name": "MANAPERP",
+          "value": 34
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 8
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 12
+        },
+        {
+          "name": "SLPPERP",
+          "value": 22
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 13
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 26
+        },
+        {
+          "name": "30M",
+          "value": 27
+        },
+        {
+          "name": "45M",
+          "value": 27
+        },
+        {
+          "name": "1H",
+          "value": 291
+        },
+        {
+          "name": "2H",
+          "value": 37
+        },
+        {
+          "name": "3H",
+          "value": 28
+        },
+        {
+          "name": "4H",
+          "value": 158
+        },
+        {
+          "name": "6H",
+          "value": 163
+        },
+        {
+          "name": "8H",
+          "value": 186
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,45M,1H",
+          "value": 344
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 386
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 544
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1274
+        }
+      ]
+    },
+    "yearToDate": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 1444
+        },
+        {
+          "name": "Short",
+          "value": 0
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 1239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 111
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 24
+        },
+        {
+          "name": "Crypto Og",
+          "value": 9
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 57
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 10
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 12
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 19
+        },
+        {
+          "name": "BATPERP",
+          "value": 23
+        },
+        {
+          "name": "BCHPERP",
+          "value": 9
+        },
+        {
+          "name": "BNBPERP",
+          "value": 10
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 33
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 22
+        },
+        {
+          "name": "ETHPERP",
+          "value": 43
+        },
+        {
+          "name": "FTTPERP",
+          "value": 19
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 73
+        },
+        {
+          "name": "LTCPERP",
+          "value": 13
+        },
+        {
+          "name": "MKRPERP",
+          "value": 25
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 19
+        },
+        {
+          "name": "RSRPERP",
+          "value": 14
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 13
+        },
+        {
+          "name": "SNXPERP",
+          "value": 4
+        },
+        {
+          "name": "SOLPERP",
+          "value": 63
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 10
+        },
+        {
+          "name": "THETAPERP",
+          "value": 15
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 24
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 12
+        },
+        {
+          "name": "XLMPERP",
+          "value": 14
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 18
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 6
+        },
+        {
+          "name": "ZECPERP",
+          "value": 12
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 12
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 13
+        },
+        {
+          "name": "ARPERP",
+          "value": 19
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 95
+        },
+        {
+          "name": "AXSPERP",
+          "value": 9
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 16
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 22
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 6
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 13
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 6
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 13
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 32
+        },
+        {
+          "name": "FTMPERP",
+          "value": 76
+        },
+        {
+          "name": "GALAPERP",
+          "value": 23
+        },
+        {
+          "name": "ICPPERP",
+          "value": 22
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 16
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 27
+        },
+        {
+          "name": "MANAPERP",
+          "value": 35
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 11
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 17
+        },
+        {
+          "name": "SLPPERP",
+          "value": 25
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 17
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 40
+        },
+        {
+          "name": "30M",
+          "value": 41
+        },
+        {
+          "name": "45M",
+          "value": 48
+        },
+        {
+          "name": "1H",
+          "value": 378
+        },
+        {
+          "name": "2H",
+          "value": 51
+        },
+        {
+          "name": "3H",
+          "value": 36
+        },
+        {
+          "name": "4H",
+          "value": 178
+        },
+        {
+          "name": "6H",
+          "value": 172
+        },
+        {
+          "name": "8H",
+          "value": 188
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 459
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 437
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 548
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1444
+        }
+      ]
+    },
+    "allTime": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 1444
+        },
+        {
+          "name": "Short",
+          "value": 0
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 1239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 111
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 24
+        },
+        {
+          "name": "Crypto Og",
+          "value": 9
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 57
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 10
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 12
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 19
+        },
+        {
+          "name": "BATPERP",
+          "value": 23
+        },
+        {
+          "name": "BCHPERP",
+          "value": 9
+        },
+        {
+          "name": "BNBPERP",
+          "value": 10
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 33
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 22
+        },
+        {
+          "name": "ETHPERP",
+          "value": 43
+        },
+        {
+          "name": "FTTPERP",
+          "value": 19
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 73
+        },
+        {
+          "name": "LTCPERP",
+          "value": 13
+        },
+        {
+          "name": "MKRPERP",
+          "value": 25
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 19
+        },
+        {
+          "name": "RSRPERP",
+          "value": 14
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 13
+        },
+        {
+          "name": "SNXPERP",
+          "value": 4
+        },
+        {
+          "name": "SOLPERP",
+          "value": 63
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 10
+        },
+        {
+          "name": "THETAPERP",
+          "value": 15
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 24
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 12
+        },
+        {
+          "name": "XLMPERP",
+          "value": 14
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 18
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 6
+        },
+        {
+          "name": "ZECPERP",
+          "value": 12
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 12
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 13
+        },
+        {
+          "name": "ARPERP",
+          "value": 19
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 95
+        },
+        {
+          "name": "AXSPERP",
+          "value": 9
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 16
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 22
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 6
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 13
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 6
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 13
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 32
+        },
+        {
+          "name": "FTMPERP",
+          "value": 76
+        },
+        {
+          "name": "GALAPERP",
+          "value": 23
+        },
+        {
+          "name": "ICPPERP",
+          "value": 22
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 16
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 27
+        },
+        {
+          "name": "MANAPERP",
+          "value": 35
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 11
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 17
+        },
+        {
+          "name": "SLPPERP",
+          "value": 25
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 17
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 40
+        },
+        {
+          "name": "30M",
+          "value": 41
+        },
+        {
+          "name": "45M",
+          "value": 41
+        },
+        {
+          "name": "1H",
+          "value": 378
+        },
+        {
+          "name": "2H",
+          "value": 51
+        },
+        {
+          "name": "3H",
+          "value": 36
+        },
+        {
+          "name": "4H",
+          "value": 178
+        },
+        {
+          "name": "6H",
+          "value": 172
+        },
+        {
+          "name": "8H",
+          "value": 188
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 459
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 437
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 548
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1444
+        }
+      ]
+    }
+  },
+  "Meta Maven": {
+    "last30Days": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 2431
+        },
+        {
+          "name": "Short",
+          "value": 2
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 2239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 211
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 24
+        },
+        {
+          "name": "Crypto Og",
+          "value": 2
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 57
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 10
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 11
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 19
+        },
+        {
+          "name": "BATPERP",
+          "value": 23
+        },
+        {
+          "name": "BCHPERP",
+          "value": 9
+        },
+        {
+          "name": "BNBPERP",
+          "value": 10
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 33
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 22
+        },
+        {
+          "name": "ETHPERP",
+          "value": 43
+        },
+        {
+          "name": "FTTPERP",
+          "value": 19
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 73
+        },
+        {
+          "name": "LTCPERP",
+          "value": 13
+        },
+        {
+          "name": "MKRPERP",
+          "value": 24
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 19
+        },
+        {
+          "name": "RSRPERP",
+          "value": 14
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 10
+        },
+        {
+          "name": "SNXPERP",
+          "value": 4
+        },
+        {
+          "name": "SOLPERP",
+          "value": 62
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 10
+        },
+        {
+          "name": "THETAPERP",
+          "value": 15
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 24
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 12
+        },
+        {
+          "name": "XLMPERP",
+          "value": 14
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 18
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 6
+        },
+        {
+          "name": "ZECPERP",
+          "value": 10
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 12
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 13
+        },
+        {
+          "name": "ARPERP",
+          "value": 19
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 95
+        },
+        {
+          "name": "AXSPERP",
+          "value": 9
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 16
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 22
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 6
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 13
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 4
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 13
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 32
+        },
+        {
+          "name": "FTMPERP",
+          "value": 74
+        },
+        {
+          "name": "GALAPERP",
+          "value": 23
+        },
+        {
+          "name": "ICPPERP",
+          "value": 22
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 16
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 27
+        },
+        {
+          "name": "MANAPERP",
+          "value": 35
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 11
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 17
+        },
+        {
+          "name": "SLPPERP",
+          "value": 24
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 17
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 39
+        },
+        {
+          "name": "30M",
+          "value": 41
+        },
+        {
+          "name": "45M",
+          "value": 41
+        },
+        {
+          "name": "1H",
+          "value": 378
+        },
+        {
+          "name": "2H",
+          "value": 51
+        },
+        {
+          "name": "3H",
+          "value": 35
+        },
+        {
+          "name": "4H",
+          "value": 175
+        },
+        {
+          "name": "6H",
+          "value": 164
+        },
+        {
+          "name": "8H",
+          "value": 188
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 458
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 425
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 548
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1431
+        }
+      ]
+    },
+    "monthToDate": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 2274
+        },
+        {
+          "name": "Short",
+          "value": 2
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 2239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 211
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 24
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 51
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 8
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 11
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 18
+        },
+        {
+          "name": "BATPERP",
+          "value": 20
+        },
+        {
+          "name": "BCHPERP",
+          "value": 8
+        },
+        {
+          "name": "BNBPERP",
+          "value": 6
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 31
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 16
+        },
+        {
+          "name": "ETHPERP",
+          "value": 38
+        },
+        {
+          "name": "FTTPERP",
+          "value": 17
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 66
+        },
+        {
+          "name": "LTCPERP",
+          "value": 12
+        },
+        {
+          "name": "MKRPERP",
+          "value": 24
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 18
+        },
+        {
+          "name": "RSRPERP",
+          "value": 13
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 9
+        },
+        {
+          "name": "SNXPERP",
+          "value": 3
+        },
+        {
+          "name": "SOLPERP",
+          "value": 62
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 5
+        },
+        {
+          "name": "THETAPERP",
+          "value": 14
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 21
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 6
+        },
+        {
+          "name": "XLMPERP",
+          "value": 10
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 15
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 5
+        },
+        {
+          "name": "ZECPERP",
+          "value": 9
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 10
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 9
+        },
+        {
+          "name": "ARPERP",
+          "value": 12
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 76
+        },
+        {
+          "name": "AXSPERP",
+          "value": 6
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 10
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 16
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 5
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 11
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 4
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 12
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 30
+        },
+        {
+          "name": "FTMPERP",
+          "value": 64
+        },
+        {
+          "name": "GALAPERP",
+          "value": 22
+        },
+        {
+          "name": "ICPPERP",
+          "value": 21
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 15
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 19
+        },
+        {
+          "name": "MANAPERP",
+          "value": 34
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 8
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 12
+        },
+        {
+          "name": "SLPPERP",
+          "value": 22
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 13
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 26
+        },
+        {
+          "name": "30M",
+          "value": 27
+        },
+        {
+          "name": "45M",
+          "value": 27
+        },
+        {
+          "name": "1H",
+          "value": 291
+        },
+        {
+          "name": "2H",
+          "value": 37
+        },
+        {
+          "name": "3H",
+          "value": 28
+        },
+        {
+          "name": "4H",
+          "value": 158
+        },
+        {
+          "name": "6H",
+          "value": 163
+        },
+        {
+          "name": "8H",
+          "value": 186
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 344
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 386
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 544
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1274
+        }
+      ]
+    },
+    "yearToDate": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 1444
+        },
+        {
+          "name": "Short",
+          "value": 0
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 1239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 111
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 24
+        },
+        {
+          "name": "Crypto Og",
+          "value": 9
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 57
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 10
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 12
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 19
+        },
+        {
+          "name": "BATPERP",
+          "value": 23
+        },
+        {
+          "name": "BCHPERP",
+          "value": 9
+        },
+        {
+          "name": "BNBPERP",
+          "value": 10
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 33
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 22
+        },
+        {
+          "name": "ETHPERP",
+          "value": 43
+        },
+        {
+          "name": "FTTPERP",
+          "value": 19
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 73
+        },
+        {
+          "name": "LTCPERP",
+          "value": 13
+        },
+        {
+          "name": "MKRPERP",
+          "value": 25
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 19
+        },
+        {
+          "name": "RSRPERP",
+          "value": 14
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 13
+        },
+        {
+          "name": "SNXPERP",
+          "value": 4
+        },
+        {
+          "name": "SOLPERP",
+          "value": 63
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 10
+        },
+        {
+          "name": "THETAPERP",
+          "value": 15
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 24
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 12
+        },
+        {
+          "name": "XLMPERP",
+          "value": 14
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 18
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 6
+        },
+        {
+          "name": "ZECPERP",
+          "value": 12
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 12
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 13
+        },
+        {
+          "name": "ARPERP",
+          "value": 19
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 95
+        },
+        {
+          "name": "AXSPERP",
+          "value": 9
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 16
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 22
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 6
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 13
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 6
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 13
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 32
+        },
+        {
+          "name": "FTMPERP",
+          "value": 76
+        },
+        {
+          "name": "GALAPERP",
+          "value": 23
+        },
+        {
+          "name": "ICPPERP",
+          "value": 22
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 16
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 27
+        },
+        {
+          "name": "MANAPERP",
+          "value": 35
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 11
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 17
+        },
+        {
+          "name": "SLPPERP",
+          "value": 25
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 17
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 40
+        },
+        {
+          "name": "30M",
+          "value": 41
+        },
+        {
+          "name": "45M",
+          "value": 41
+        },
+        {
+          "name": "1H",
+          "value": 378
+        },
+        {
+          "name": "2H",
+          "value": 51
+        },
+        {
+          "name": "3H",
+          "value": 36
+        },
+        {
+          "name": "4H",
+          "value": 178
+        },
+        {
+          "name": "6H",
+          "value": 172
+        },
+        {
+          "name": "8H",
+          "value": 188
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 459
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 437
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 548
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1444
+        }
+      ]
+    },
+    "allTime": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 1444
+        },
+        {
+          "name": "Short",
+          "value": 0
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 1239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 111
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 24
+        },
+        {
+          "name": "Crypto Og",
+          "value": 9
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 57
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 10
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 12
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 19
+        },
+        {
+          "name": "BATPERP",
+          "value": 23
+        },
+        {
+          "name": "BCHPERP",
+          "value": 9
+        },
+        {
+          "name": "BNBPERP",
+          "value": 10
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 33
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 22
+        },
+        {
+          "name": "ETHPERP",
+          "value": 43
+        },
+        {
+          "name": "FTTPERP",
+          "value": 19
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 73
+        },
+        {
+          "name": "LTCPERP",
+          "value": 13
+        },
+        {
+          "name": "MKRPERP",
+          "value": 25
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 19
+        },
+        {
+          "name": "RSRPERP",
+          "value": 14
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 13
+        },
+        {
+          "name": "SNXPERP",
+          "value": 4
+        },
+        {
+          "name": "SOLPERP",
+          "value": 63
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 10
+        },
+        {
+          "name": "THETAPERP",
+          "value": 15
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 24
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 12
+        },
+        {
+          "name": "XLMPERP",
+          "value": 14
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 18
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 6
+        },
+        {
+          "name": "ZECPERP",
+          "value": 12
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 12
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 13
+        },
+        {
+          "name": "ARPERP",
+          "value": 19
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 95
+        },
+        {
+          "name": "AXSPERP",
+          "value": 9
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 16
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 22
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 6
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 13
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 6
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 13
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 32
+        },
+        {
+          "name": "FTMPERP",
+          "value": 76
+        },
+        {
+          "name": "GALAPERP",
+          "value": 23
+        },
+        {
+          "name": "ICPPERP",
+          "value": 22
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 16
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 27
+        },
+        {
+          "name": "MANAPERP",
+          "value": 35
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 11
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 17
+        },
+        {
+          "name": "SLPPERP",
+          "value": 25
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 17
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 40
+        },
+        {
+          "name": "30M",
+          "value": 40
+        },
+        {
+          "name": "45M",
+          "value": 41
+        },
+        {
+          "name": "1H",
+          "value": 378
+        },
+        {
+          "name": "2H",
+          "value": 51
+        },
+        {
+          "name": "3H",
+          "value": 36
+        },
+        {
+          "name": "4H",
+          "value": 178
+        },
+        {
+          "name": "6H",
+          "value": 172
+        },
+        {
+          "name": "8H",
+          "value": 188
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 459
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 437
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 548
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1444
+        }
+      ]
+    }
+  },
+  "Meta Mafioso": {
+    "last30Days": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 3431
+        },
+        {
+          "name": "Short",
+          "value": 3
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 3239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 311
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 34
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 57
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 10
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 11
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 19
+        },
+        {
+          "name": "BATPERP",
+          "value": 23
+        },
+        {
+          "name": "BCHPERP",
+          "value": 9
+        },
+        {
+          "name": "BNBPERP",
+          "value": 10
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 33
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 22
+        },
+        {
+          "name": "ETHPERP",
+          "value": 43
+        },
+        {
+          "name": "FTTPERP",
+          "value": 19
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 73
+        },
+        {
+          "name": "LTCPERP",
+          "value": 13
+        },
+        {
+          "name": "MKRPERP",
+          "value": 24
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 19
+        },
+        {
+          "name": "RSRPERP",
+          "value": 14
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 10
+        },
+        {
+          "name": "SNXPERP",
+          "value": 4
+        },
+        {
+          "name": "SOLPERP",
+          "value": 62
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 10
+        },
+        {
+          "name": "THETAPERP",
+          "value": 15
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 24
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 12
+        },
+        {
+          "name": "XLMPERP",
+          "value": 14
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 18
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 6
+        },
+        {
+          "name": "ZECPERP",
+          "value": 10
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 12
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 13
+        },
+        {
+          "name": "ARPERP",
+          "value": 19
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 95
+        },
+        {
+          "name": "AXSPERP",
+          "value": 9
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 16
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 22
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 6
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 13
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 4
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 13
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 32
+        },
+        {
+          "name": "FTMPERP",
+          "value": 74
+        },
+        {
+          "name": "GALAPERP",
+          "value": 23
+        },
+        {
+          "name": "ICPPERP",
+          "value": 22
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 16
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 27
+        },
+        {
+          "name": "MANAPERP",
+          "value": 35
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 11
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 17
+        },
+        {
+          "name": "SLPPERP",
+          "value": 24
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 17
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 39
+        },
+        {
+          "name": "30M",
+          "value": 40
+        },
+        {
+          "name": "45M",
+          "value": 41
+        },
+        {
+          "name": "1H",
+          "value": 378
+        },
+        {
+          "name": "2H",
+          "value": 51
+        },
+        {
+          "name": "3H",
+          "value": 35
+        },
+        {
+          "name": "4H",
+          "value": 175
+        },
+        {
+          "name": "6H",
+          "value": 164
+        },
+        {
+          "name": "8H",
+          "value": 188
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 458
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 425
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 548
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1431
+        }
+      ]
+    },
+    "monthToDate": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 1274
+        },
+        {
+          "name": "Short",
+          "value": 0
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 1239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 111
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 24
+        },
+        {
+          "name": "Crypto Og",
+          "value": 9
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 51
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 8
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 11
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 18
+        },
+        {
+          "name": "BATPERP",
+          "value": 20
+        },
+        {
+          "name": "BCHPERP",
+          "value": 8
+        },
+        {
+          "name": "BNBPERP",
+          "value": 6
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 31
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 16
+        },
+        {
+          "name": "ETHPERP",
+          "value": 38
+        },
+        {
+          "name": "FTTPERP",
+          "value": 17
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 66
+        },
+        {
+          "name": "LTCPERP",
+          "value": 12
+        },
+        {
+          "name": "MKRPERP",
+          "value": 24
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 18
+        },
+        {
+          "name": "RSRPERP",
+          "value": 13
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 9
+        },
+        {
+          "name": "SNXPERP",
+          "value": 3
+        },
+        {
+          "name": "SOLPERP",
+          "value": 62
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 5
+        },
+        {
+          "name": "THETAPERP",
+          "value": 14
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 21
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 6
+        },
+        {
+          "name": "XLMPERP",
+          "value": 10
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 15
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 5
+        },
+        {
+          "name": "ZECPERP",
+          "value": 9
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 10
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 9
+        },
+        {
+          "name": "ARPERP",
+          "value": 12
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 76
+        },
+        {
+          "name": "AXSPERP",
+          "value": 6
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 10
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 16
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 5
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 11
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 4
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 12
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 30
+        },
+        {
+          "name": "FTMPERP",
+          "value": 64
+        },
+        {
+          "name": "GALAPERP",
+          "value": 22
+        },
+        {
+          "name": "ICPPERP",
+          "value": 21
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 15
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 19
+        },
+        {
+          "name": "MANAPERP",
+          "value": 34
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 8
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 12
+        },
+        {
+          "name": "SLPPERP",
+          "value": 22
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 13
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 26
+        },
+        {
+          "name": "30M",
+          "value": 27
+        },
+        {
+          "name": "45M",
+          "value": 27
+        },
+        {
+          "name": "1H",
+          "value": 291
+        },
+        {
+          "name": "2H",
+          "value": 37
+        },
+        {
+          "name": "3H",
+          "value": 28
+        },
+        {
+          "name": "4H",
+          "value": 158
+        },
+        {
+          "name": "6H",
+          "value": 163
+        },
+        {
+          "name": "8H",
+          "value": 186
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 344
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 386
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 544
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1274
+        }
+      ]
+    },
+    "yearToDate": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 1444
+        },
+        {
+          "name": "Short",
+          "value": 0
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 1239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 111
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 24
+        },
+        {
+          "name": "Crypto Og",
+          "value": 9
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 57
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 10
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 12
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 19
+        },
+        {
+          "name": "BATPERP",
+          "value": 23
+        },
+        {
+          "name": "BCHPERP",
+          "value": 9
+        },
+        {
+          "name": "BNBPERP",
+          "value": 10
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 33
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 22
+        },
+        {
+          "name": "ETHPERP",
+          "value": 43
+        },
+        {
+          "name": "FTTPERP",
+          "value": 19
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 73
+        },
+        {
+          "name": "LTCPERP",
+          "value": 13
+        },
+        {
+          "name": "MKRPERP",
+          "value": 25
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 19
+        },
+        {
+          "name": "RSRPERP",
+          "value": 14
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 13
+        },
+        {
+          "name": "SNXPERP",
+          "value": 4
+        },
+        {
+          "name": "SOLPERP",
+          "value": 63
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 10
+        },
+        {
+          "name": "THETAPERP",
+          "value": 15
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 24
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 12
+        },
+        {
+          "name": "XLMPERP",
+          "value": 14
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 18
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 6
+        },
+        {
+          "name": "ZECPERP",
+          "value": 12
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 12
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 13
+        },
+        {
+          "name": "ARPERP",
+          "value": 19
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 95
+        },
+        {
+          "name": "AXSPERP",
+          "value": 9
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 16
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 22
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 6
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 13
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 6
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 13
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 32
+        },
+        {
+          "name": "FTMPERP",
+          "value": 76
+        },
+        {
+          "name": "GALAPERP",
+          "value": 23
+        },
+        {
+          "name": "ICPPERP",
+          "value": 22
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 16
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 27
+        },
+        {
+          "name": "MANAPERP",
+          "value": 35
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 11
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 17
+        },
+        {
+          "name": "SLPPERP",
+          "value": 25
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 17
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 40
+        },
+        {
+          "name": "30M",
+          "value": 41
+        },
+        {
+          "name": "45M",
+          "value": 41
+        },
+        {
+          "name": "1H",
+          "value": 378
+        },
+        {
+          "name": "2H",
+          "value": 51
+        },
+        {
+          "name": "3H",
+          "value": 36
+        },
+        {
+          "name": "4H",
+          "value": 178
+        },
+        {
+          "name": "6H",
+          "value": 172
+        },
+        {
+          "name": "8H",
+          "value": 188
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 459
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 437
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 548
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1444
+        }
+      ]
+    },
+    "allTime": {
+      "alertsByDirection": [
+        {
+          "name": "Long",
+          "value": 1444
+        },
+        {
+          "name": "Short",
+          "value": 0
+        }
+      ],
+      "alertsByMembership": [
+        {
+          "name": "Meta Mafioso",
+          "value": 1239
+        },
+        {
+          "name": "Meta Maven",
+          "value": 111
+        },
+        {
+          "name": "Meta Mogul",
+          "value": 24
+        },
+        {
+          "name": "Crypto Og",
+          "value": 9
+        }
+      ],
+      "alertsByPair": [
+        {
+          "name": "AAVEPERP",
+          "value": 12
+        },
+        {
+          "name": "ADAPERP",
+          "value": 57
+        },
+        {
+          "name": "ALGOPERP",
+          "value": 10
+        },
+        {
+          "name": "ATOMPERP",
+          "value": 12
+        },
+        {
+          "name": "BALPERP",
+          "value": 2
+        },
+        {
+          "name": "BANDPERP",
+          "value": 19
+        },
+        {
+          "name": "BATPERP",
+          "value": 23
+        },
+        {
+          "name": "BCHPERP",
+          "value": 9
+        },
+        {
+          "name": "BNBPERP",
+          "value": 10
+        },
+        {
+          "name": "BSVPERP",
+          "value": 17
+        },
+        {
+          "name": "BTCPERP",
+          "value": 33
+        },
+        {
+          "name": "COMPPERP",
+          "value": 10
+        },
+        {
+          "name": "DOTPERP",
+          "value": 14
+        },
+        {
+          "name": "EOSPERP",
+          "value": 11
+        },
+        {
+          "name": "ETCPERP",
+          "value": 22
+        },
+        {
+          "name": "ETHPERP",
+          "value": 43
+        },
+        {
+          "name": "FTTPERP",
+          "value": 19
+        },
+        {
+          "name": "KNCPERP",
+          "value": 8
+        },
+        {
+          "name": "LINKPERP",
+          "value": 73
+        },
+        {
+          "name": "LTCPERP",
+          "value": 13
+        },
+        {
+          "name": "MKRPERP",
+          "value": 25
+        },
+        {
+          "name": "NEOPERP",
+          "value": 11
+        },
+        {
+          "name": "OMGPERP",
+          "value": 19
+        },
+        {
+          "name": "RSRPERP",
+          "value": 14
+        },
+        {
+          "name": "RUNEPERP",
+          "value": 13
+        },
+        {
+          "name": "SNXPERP",
+          "value": 4
+        },
+        {
+          "name": "SOLPERP",
+          "value": 63
+        },
+        {
+          "name": "SUSHIPERP",
+          "value": 8
+        },
+        {
+          "name": "SXPPERP",
+          "value": 10
+        },
+        {
+          "name": "THETAPERP",
+          "value": 15
+        },
+        {
+          "name": "TRXPERP",
+          "value": 0
+        },
+        {
+          "name": "UNIPERP",
+          "value": 14
+        },
+        {
+          "name": "VETPERP",
+          "value": 24
+        },
+        {
+          "name": "WAVESPERP",
+          "value": 12
+        },
+        {
+          "name": "XLMPERP",
+          "value": 14
+        },
+        {
+          "name": "XMRPERP",
+          "value": 8
+        },
+        {
+          "name": "XRPPERP",
+          "value": 18
+        },
+        {
+          "name": "XTZPERP",
+          "value": 15
+        },
+        {
+          "name": "YFIPERP",
+          "value": 6
+        },
+        {
+          "name": "ZECPERP",
+          "value": 12
+        },
+        {
+          "name": "1INCHPERP",
+          "value": 12
+        },
+        {
+          "name": "ALICEPERP",
+          "value": 12
+        },
+        {
+          "name": "ALTPERP",
+          "value": 13
+        },
+        {
+          "name": "ARPERP",
+          "value": 19
+        },
+        {
+          "name": "AVAXPERP",
+          "value": 95
+        },
+        {
+          "name": "AXSPERP",
+          "value": 9
+        },
+        {
+          "name": "BADGERPERP",
+          "value": 16
+        },
+        {
+          "name": "CAKEPERP",
+          "value": 6
+        },
+        {
+          "name": "CHRPERP",
+          "value": 16
+        },
+        {
+          "name": "CHZPERP",
+          "value": 22
+        },
+        {
+          "name": "CREAMPERP",
+          "value": 11
+        },
+        {
+          "name": "CROPERP",
+          "value": 6
+        },
+        {
+          "name": "CRVPERP",
+          "value": 4
+        },
+        {
+          "name": "DOGEPERP",
+          "value": 13
+        },
+        {
+          "name": "DYDXPERP",
+          "value": 14
+        },
+        {
+          "name": "EDENPERP",
+          "value": 6
+        },
+        {
+          "name": "EGLDPERP",
+          "value": 13
+        },
+        {
+          "name": "ENJPERP",
+          "value": 18
+        },
+        {
+          "name": "ENSPERP",
+          "value": 2
+        },
+        {
+          "name": "FILPERP",
+          "value": 9
+        },
+        {
+          "name": "FLOWPERP",
+          "value": 32
+        },
+        {
+          "name": "FTMPERP",
+          "value": 76
+        },
+        {
+          "name": "GALAPERP",
+          "value": 23
+        },
+        {
+          "name": "ICPPERP",
+          "value": 22
+        },
+        {
+          "name": "KAVAPERP",
+          "value": 3
+        },
+        {
+          "name": "KSMPERP",
+          "value": 6
+        },
+        {
+          "name": "LRCPERP",
+          "value": 16
+        },
+        {
+          "name": "LUNAPERP",
+          "value": 27
+        },
+        {
+          "name": "MANAPERP",
+          "value": 35
+        },
+        {
+          "name": "MATICPERP",
+          "value": 21
+        },
+        {
+          "name": "NEARPERP",
+          "value": 11
+        },
+        {
+          "name": "OKBPERP",
+          "value": 13
+        },
+        {
+          "name": "ONEPERP",
+          "value": 18
+        },
+        {
+          "name": "SANDPERP",
+          "value": 20
+        },
+        {
+          "name": "SHIBPERP",
+          "value": 17
+        },
+        {
+          "name": "SLPPERP",
+          "value": 25
+        },
+        {
+          "name": "SPELLPERP",
+          "value": 10
+        },
+        {
+          "name": "SRMPERP",
+          "value": 17
+        },
+        {
+          "name": "STORJPERP",
+          "value": 13
+        },
+        {
+          "name": "TRUPERP",
+          "value": 1
+        }
+      ],
+      "alertsByTimeframe": [
+        {
+          "name": "15M",
+          "value": 40
+        },
+        {
+          "name": "30M",
+          "value": 41
+        },
+        {
+          "name": "45M",
+          "value": 41
+        },
+        {
+          "name": "1H",
+          "value": 378
+        },
+        {
+          "name": "2H",
+          "value": 51
+        },
+        {
+          "name": "3H",
+          "value": 36
+        },
+        {
+          "name": "4H",
+          "value": 178
+        },
+        {
+          "name": "6H",
+          "value": 172
+        },
+        {
+          "name": "8H",
+          "value": 188
+        },
+        {
+          "name": "12H",
+          "value": 129
+        },
+        {
+          "name": "24H",
+          "value": 6
+        }
+      ],
+      "alertsByTimeframeGroup": [
+        {
+          "name": "Low",
+          "times": "15M,30M,45M,1H",
+          "value": 459
+        },
+        {
+          "name": "Medium",
+          "times": "2H,3H,4H,6H",
+          "value": 437
+        },
+        {
+          "name": "High",
+          "times": "8H,12H,24H",
+          "value": 548
+        }
+      ],
+      "alertsGenerated": [
+        {
+          "value": 1444
+        }
+      ]
+    }
+  },
+  "dashboard": {
+    "alert_side": "LONG",
+    "asset_1": "ANKR",
+    "asset_2": "USDT",
+    "alert_type": "Power 1",
+    "exchange": "FTX",
+    "pair": "BTCPERP",
+    "price": "31,544.00",
+    "timeframe": "4H",
+    "datetime": "21-07-2021 at 12:00",
+    "stop_loss": "28,729.20",
+    "target_1": "38,027.00",
+    "rr_1": "2.36",
+    "target_2": "40,029.00",
+    "rr_2": "3.09",
+    "target_3": "43,601.46",
+    "rr_3": "4.39"
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="23px" viewBox="0 0 26 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-down</title>
+    <g id="Artboards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" >
+        <g id="Desktop_Home_CookieDisclaimer" transform="translate(-1067.000000, -992.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="arrow-down" transform="translate(1080.000000, 1003.500000) scale(-1, 1) rotate(180.000000) translate(-1080.000000, -1003.500000) translate(1069.500000, 991.500000)">
+                <polyline id="Path" points="21 13.5 10.5 24 0 13.5"></polyline>
+                <line x1="10.5" y1="0" x2="10.5" y2="24" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>

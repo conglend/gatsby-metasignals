@@ -1,0 +1,118 @@
+{
+  "name": "jedisignals-front",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JediSignals Gatsby",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "dev": "gatsby clean && gatsby develop --host=0.0.0.0 --verbose",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "format:js": "prettier --write \"**/*.js\"",
+    "format:json": "prettier --write \"**/*.json\"",
+    "format:md": "prettier --write \"**/*.md\"",
+    "format:ts": "prettier --write \"src/**/*.ts{,x}\"",
+    "format": "npm-run-all format:*",
+    "lint": "eslint src --fix --ext .js,.ts,.tsx",
+    "compile": "tsc --noEmit -p . --pretty",
+    "lint-front": "lint-staged"
+  },
+  "dependencies": {
+    "@emotion/css": "^11.7.1",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@google/model-viewer": "^1.11.0",
+    "@mui/material": "^5.3.1",
+    "@rainbow-me/rainbowkit": "^1.0.11",
+    "@sentry/gatsby": "^7.2.0",
+    "@use-gesture/react": "^10.2.10",
+    "classnames": "^2.3.1",
+    "deepmerge": "^4.2.2",
+    "formik": "^2.2.9",
+    "gatsby": "^4.5.3",
+    "gatsby-plugin-google-tagmanager": "^5.12.3",
+    "gatsby-plugin-image": "^2.11.1",
+    "gatsby-plugin-manifest": "^4.5.2",
+    "gatsby-plugin-postcss": "^5.5.0",
+    "gatsby-plugin-react-helmet": "^5.5.0",
+    "gatsby-plugin-react-svg": "^3.1.0",
+    "gatsby-plugin-sharp": "^4.11.1",
+    "gatsby-plugin-sitemap": "^5.16.0",
+    "gatsby-source-filesystem": "^5.10.0",
+    "gatsby-source-strapi": "^3.2.0",
+    "gatsby-theme-material-ui": "^5.1.0",
+    "gatsby-transformer-remark": "^5.11.1",
+    "gatsby-transformer-sharp": "^4.11.0",
+    "lodash.get": "^4.4.2",
+    "postcss": "^8.4.5",
+    "react": "^17.0.1",
+    "react-cookie": "^4.1.1",
+    "react-dom": "^17.0.1",
+    "react-google-recaptcha": "^2.1.0",
+    "react-helmet": "^6.1.0",
+    "react-hook-form": "^7.31.2",
+    "react-icons": "^4.3.1",
+    "react-intersection-observer": "^8.33.1",
+    "react-loader-spinner": "^5.3.4",
+    "react-markdown": "^8.0.0",
+    "react-typist": "^2.0.5",
+    "react-use": "^17.4.0",
+    "recharts": "^2.1.9",
+    "rehype-raw": "^6.1.1",
+    "styled-components": "^6.1.0",
+    "viem": "^1.16.5",
+    "wagmi": "^1.4.3",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.2",
+    "@types/lodash.get": "^4.4.6",
+    "@types/node": "14.17.6",
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "@types/react-google-recaptcha": "^2.1.5",
+    "@types/react-helmet": "^6.1.5",
+    "@types/react-typist": "^2.0.3",
+    "@types/styled-components": "^5.1.29",
+    "eslint": "7.32.0",
+    "eslint-config-react-app": "^7.0.0",
+    "eslint-config-teacode": "^1.0.2",
+    "eslint-webpack-plugin": "^3.1.1",
+    "gatsby-plugin-eslint": "^4.0.2",
+    "gatsby-plugin-graphql-codegen": "^3.1.1",
+    "gatsby-plugin-ts-config": "^2.1.3",
+    "gatsby-plugin-tsconfig-paths": "^1.0.5",
+    "lint-staged": "^12.3.1",
+    "node-polyfill-webpack-plugin": "^2.0.1",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.5.1",
+    "typescript": "^5.1.6"
+  },
+  "lint-staged": {
+    "*.{js,ts,tsx,jsx}": [
+      "eslint --fix --ext"
+    ],
+    "*.{js,jsx,ts,tsx}": [
+      "prettier --write"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not ie <= 99",
+      "not android <= 4.4.4",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

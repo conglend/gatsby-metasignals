@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 91 91">
+  <defs>
+    <linearGradient id="linear-gradient" x1="16.29" y1="57.78" x2="64.08" y2="57.78" gradientUnits="userSpaceOnUse">
+      <stop offset=".2" stop-color="#fccb07"/>
+      <stop offset=".29" stop-color="#f7bf08"/>
+      <stop offset=".46" stop-color="#eaa00a"/>
+      <stop offset=".67" stop-color="#d56f0f"/>
+      <stop offset=".93" stop-color="#b92a15"/>
+      <stop offset="1" stop-color="#b11717"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="19.49" y1="37.65" x2="59.67" y2="37.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b11717"/>
+      <stop offset=".07" stop-color="#b92a15"/>
+      <stop offset=".33" stop-color="#d56f0f"/>
+      <stop offset=".54" stop-color="#eaa00a"/>
+      <stop offset=".71" stop-color="#f7bf08"/>
+      <stop offset=".8" stop-color="#fccb07"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="48.12" y1="26.55" x2="73.06" y2="72.65" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <path d="m91,45.5c0,25.13-20.37,45.5-45.5,45.5S0,70.63,0,45.5,20.37,0,45.5,0s45.5,20.37,45.5,45.5" style="fill: #e2e2e2;"/>
+  <g>
+    <path d="m62.2,68.5c-.94,1.64-2.17,3.01-3.57,4.09h0c-.94.14-1.91.22-2.91.22h-20.42c-14.38,0-23.53-15.37-16.68-28.02l1.11-2.05c-.58,3.16-.08,6.53,1.65,9.53,1.93,3.35,5.03,5.59,8.49,6.52t0,0c.49.31,1.08.49,1.72.49h27.84c2.26,0,3.77-2.23,3.09-4.26,2.12,4.11,2.17,9.17-.31,13.47Z" style="fill: url(#linear-gradient);"/>
+    <path d="m59.67,22.35c-1.47-.52-3.05-.81-4.69-.81-5.11,0-9.58,2.73-12.03,6.8-.11.14-.21.3-.31.47l-2.28,4.2-11.64,21.48c-.86,1.59.4,4.79,2.72,4.79-4.15,0-8.15-3.67-10.08-7.01-1.73-3-2.23-6.37-1.65-9.53l4.17-7.69,4.93-9.1c6.46-11.91,22.47-13.11,30.86-3.6Z" style="fill: url(#linear-gradient-2);"/>
+    <path d="m58.63,72.6c1.41-1.09,2.63-2.46,3.57-4.09,2.48-4.3,2.43-9.36.31-13.47,0,0,0,0,0,0-.06-.18-.14-.35-.23-.53l-3.01-5.56-10.91-20.13c-1.14-2.1-4.01-2.25-5.4-.47,2.45-4.08,6.92-6.8,12.03-6.8,1.65,0,3.23.28,4.69.81.94,1.07,1.79,2.26,2.51,3.6l6.59,12.17,3.62,6.67c6.38,11.77-1.11,25.9-13.77,27.8Z" style="fill: url(#linear-gradient-3);"/>
+  </g>
+</svg>

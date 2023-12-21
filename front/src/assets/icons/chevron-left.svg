@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="9px"
+   height="14px"
+   viewBox="0 0 9 14"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="chevron-right copy.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     id="namedview22"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="49.642857"
+     inkscape:cx="4.5021583"
+     inkscape:cy="6.9899281"
+     inkscape:window-width="1792"
+     inkscape:window-height="1120"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg20" />
+  <title
+     id="title14">Right Arrow</title>
+  <g
+     id="Artboards"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="matrix(-1,0,0,1,8.0085891,0)">
+    <g
+       id="Desktop_Home"
+       transform="translate(-359,-602)"
+       fill="#ffffff"
+       fill-rule="nonzero">
+      <g
+         id="Right-Arrow"
+         transform="translate(359,602)">
+        <path
+           d="M 7.7164655,7.6904602 1.6819932,13.708013 c -0.3838653,0.382987 -1.00623714,0.382987 -1.38991611,0 -0.38371002,-0.382646 -0.38371002,-1.003261 0,-1.385876 L 5.6316534,6.9975221 0.29223239,1.6730929 c -0.38371003,-0.3828009 -0.38371003,-1.00335396 0,-1.38599998 0.38371003,-0.38280088 1.00605081,-0.38280088 1.38991611,0 L 7.7166208,6.3047389 c 0.191855,0.191416 0.2876738,0.4420222 0.2876738,0.6927522 0,0.250854 -0.096005,0.5016461 -0.2878291,0.6929691 z"
+           id="Shape" />
+      </g>
+    </g>
+  </g>
+</svg>
